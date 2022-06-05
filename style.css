@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 80%;
+    height: 500px;
+    border: 1px solid #777;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Sec {
+    position: relative;
+    width: 20%;
+    height: 200px;
+    border: 1px solid #777;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+#seconds {
+    text-align: center;
+    margin-top: 60%;
+}
